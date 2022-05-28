@@ -1,0 +1,11 @@
+{
+  "name": "accessible-hashtags",
+  "version": "1.0.0",
+  "description": "new project for making hashtags accessible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
